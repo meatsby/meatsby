@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![meatsby's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatsby&show_icons=true&theme=dark)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meatsby)](https://solved.ac/meatsby/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=meatsby)](https://solved.ac/meatsby/)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=meatsby)](https://solved.ac/meatsby)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=meatsby)](https://solved.ac/meatby)
