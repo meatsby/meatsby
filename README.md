@@ -1,3 +1,5 @@
+Looking forward to become a software engineer
+
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=meatsby" width="50%" height="180px">
 
 <a href="https://solved.ac/meatsby">
