@@ -10,8 +10,8 @@
 ![meatsby's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatsby&show_icons=true&theme=dark&hide_border=true)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatsby&layout=compact&theme=dark&hide_border=true)<br>
 -->
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=meatsby&show_icons=true&hide_border=true&title_color=fffcfc&text_color=fffcfc&icon_color=fffcfc&bg_color=45,ffc944,ffaf44,ff9632">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=meatsby&show_icons=true&hide_border=true&title_color=fffcfc&text_color=fffcfc&icon_color=fffcfc&bg_color=45,ffc944,ffaf44,ff9632" width=399px>
 <a href="https://solved.ac/meatsby">
-  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=meatsby" width=390px>
+  <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=meatsby" width=399px>
 </a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meatsby&layout=compact&hide_border=true&title_color=fffcfc&text_color=fffcfc&icon_color=fffcfc&bg_color=45,ffc944,ffaf44,ff9632&card_width=864">
