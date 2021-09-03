@@ -10,5 +10,6 @@
 
 <br>
 
+![meatsby's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatsby&show_icons=true&theme=dark)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=meatsby)](https://solved.ac/meatsby) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatsby&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatsby&layout=compact$theme=dark)
