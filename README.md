@@ -1,5 +1,10 @@
-### 🙋‍♂️ HELLO!<br>
-💻 Interested in `Backend Development`<br>
+### 🙋‍♂️ HELLO!
+
+<\br>
+
+💻 Interested in `Backend Development`
+
+<\br>
 
 <!--
 [![GitHub Pages Badge](https://img.shields.io/badge/-GitHub_Pages-181717?style=flat-square&logo=github&logoColor=white)](https://cael0.github.io/)
@@ -17,5 +22,7 @@
   <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=meatsby" width=324px>
 </a>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meatsby&layout=compact&hide_border=true&title_color=fffcfc&text_color=fffcfc&icon_color=fffcfc&bg_color=45,ffc944,ffaf44,ff9632&card_width=695">
+
+<\br>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
