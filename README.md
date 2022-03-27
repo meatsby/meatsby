@@ -4,9 +4,8 @@
 
 ![meatsby's GitHub stats](https://github-readme-stats.vercel.app/api?username=meatsby&show_icons=true&theme=dark&hide_border=true)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatsby&layout=compact&theme=dark&hide_border=true)
-<br>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=meatsby)](https://solved.ac/meatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meatsby&layout=compact&theme=dark&hide_border=true)
 <br>
 <a href="https://opgc.me/#/users/meatsby" target="_blank"><img src="https://api.opgc.me/githubs/users/meatsby/tag/?theme=basic" /></a>
 <br>
