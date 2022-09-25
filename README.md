@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋<br>
 
-<!--
-**meatsby/meatsby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Interested in `Backend Development`<br>
 
-Here are some ideas to get you started:
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=meatsby&show_icons=true&theme=dark&count_private=true&line_height=24">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meatsby&theme=dark&langs_count=8&show_icons=true&count_private=true&layout=compact">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=meatsby">
+<!--   <img src="https://api.opgc.me/githubs/users/meatsby/tag/?theme=basic"> -->
+</p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeatsby&count_bg=%23BFBFBF&title_bg=%238AA6A3&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
