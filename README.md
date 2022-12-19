@@ -6,6 +6,7 @@
 <div align="left">
   <img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=meatsby">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmeatsby&count_bg=%23BFBFBF&title_bg=%238AA6A3&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false">
+  <br>
 </div>
 
 ### 🛠 Skills
