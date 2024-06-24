@@ -11,7 +11,7 @@
 
 ### 🛠 Stacks
 
-[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=python,java,spring,hibernate,nginx,aws,terraform,mysql,jenkins,docker,idea,vscode,obsidian,notion,git))](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,spring,hibernate,nginx,aws,terraform,mysql,jenkins,docker,idea,vscode,obsidian,notion,git)](https://skillicons.dev)
 
 # <div align=left> 
 #   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white">
