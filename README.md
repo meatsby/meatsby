@@ -35,7 +35,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white">
   <br>
 </div>
--->
 
 ### 📊 Stats
 
@@ -43,3 +42,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=meatsby&show_icons=true&count_private=true&hide_border=true&theme=react">
   <br>
 </div>
+-->
