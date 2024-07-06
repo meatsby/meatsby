@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-💻 Interested in `Backend Development`
+💻 Interested in `Backend Development` & `DevOps`
 <br>
 
 <div align="left">
